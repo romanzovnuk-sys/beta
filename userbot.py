@@ -872,6 +872,7 @@ async def help_handler(event):
 ┣ •.fakekick user
 ┣ •.warn user
 ┣ • .gay
+┣ • .dox
 ┣ • .hack
 ┣ • .wiki
 ┗ • .tr
